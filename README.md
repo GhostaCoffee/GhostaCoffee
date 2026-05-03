@@ -37,8 +37,9 @@
 - **AI Agents & Automation** — multi-agent systems, tool-use, agentic workflows
 
 <p align="center">
-  Yajirobe-Senju&show_icons=true&theme=dark&hide_border=true" />
-  Yajirobe-Senju&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yajirobe-Senju&show_icons=true&theme=dark&hide_border=true" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yajirobe-Senju&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ## Currently
@@ -47,5 +48,5 @@
 - Open to: collaboration on AI/ML projects
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-is-a-dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/_mahmadkhan)
