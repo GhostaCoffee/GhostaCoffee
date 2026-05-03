@@ -44,10 +44,10 @@
 </p>
 
 ## Currently
-- Working on: [short project description — e.g. "an LLM agent for X"]
-- Learning: [e.g. "multimodal models, RLHF"]
+- Working on: [Agent to locally handle my machine and OS]
+- Learning: [n8n]
 - Open to: collaboration on AI/ML projects
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-is-a-dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/_mahmadkhan)
+[![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/_mahmadkhan)
