@@ -1,11 +1,48 @@
-- 👋 Hi, I’m @Yajirobe-Senju
-- 👀 I’m interested in AI development and Gen AI
-- 🌱 I’m currently learning GoLang, C and Python tools
-- 💞️ I’m looking to collaborate on Anything in my domain
-- ⚡ Fun fact: I'm only 18 :D
-- Build, Inspire, Repeat
+<h1 align="center">Hey, I'm [Your Name] </h1>
+<p align="center">
+  AI/ML Engineer · LLMs · NLP · MLOps · AI Agents
+</p>
+<p align="center">
+  Building intelligent systems end-to-end — from model training to production deployment.
+</p>
 
-<!---
-Yajirobe-Senju/Yajirobe-Senju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech stack
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## What I work on
+
+- **LLMs & Generative AI** — fine-tuning, RAG pipelines, prompt engineering
+- **NLP** — text classification, embeddings, named entity recognition
+- **MLOps** — model serving, experiment tracking, CI/CD for ML
+- **Data Science** — EDA, feature engineering, statistical modeling
+- **RL** — reward modeling, policy optimization
+- **AI Agents & Automation** — multi-agent systems, tool-use, agentic workflows
+
+<p align="center">
+  Yajirobe-Senju&show_icons=true&theme=dark&hide_border=true" />
+  Yajirobe-Senju&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+## Currently
+- Working on: [short project description — e.g. "an LLM agent for X"]
+- Learning: [e.g. "multimodal models, RLHF"]
+- Open to: collaboration on AI/ML projects
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](YOUR_TWITTER)
